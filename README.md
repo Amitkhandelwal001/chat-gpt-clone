@@ -10,6 +10,15 @@ A full-stack, production-ready ChatGPT clone built with React, Node.js, Express,
 - 🎨 Beautiful Dark Mode UI inspired by ChatGPT
 - ⚡ Fast Performance with Vite and React
 
+## Screenshots
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <img src="assets/screenshots/screenshot1.png" width="100%" alt="App Screenshot 1">
+  <img src="assets/screenshots/screenshot2.png" width="100%" alt="App Screenshot 2">
+  <img src="assets/screenshots/screenshot3.png" width="100%" alt="App Screenshot 3">
+  <img src="assets/screenshots/screenshot4.png" width="100%" alt="App Screenshot 4">
+</div>
+
 ## Setup Instructions
 
 ### 1. Database Setup
